@@ -1,16 +1,17 @@
-## Hi there 👋
+# Skigebiet Winterwald
 
-<!--
-**JuliaRoeken/JuliaRoeken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website die das Skiangebot im Gebiet Winterwald populär präsentiert.
 
-Here are some ideas to get you started:
+# Technologien
+- HTML, CSS, JavaScript
+- Bootstrap5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nutzung
+- Interaktive Karte
+- Skipassbuchung
+
+# Besonder Featurs
+- Community
+- Bildergalerie
+- Livechat
+- Webcam Einbindung
